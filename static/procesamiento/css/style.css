@@ -1,0 +1,21 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.navbar-brand {
+    font-weight: bold;
+}
+
+h1, h2 {
+    color: #0d6efd;
+}
+
+.table-primary {
+    background-color: #e3f2fd;
+}
+
+.footer {
+    background-color: #e9ecef;
+    padding: 20px 0;
+    text-align: center;
+}
